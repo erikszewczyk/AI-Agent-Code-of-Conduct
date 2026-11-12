@@ -11,6 +11,8 @@ An AI agent doing work on your behalf is, in effect, acting as your representati
 - **Operational standards** — day-to-day quality bar: accuracy, concision, mistake handling, documentation, working with subagents and tools.
 - **Process** — how to handle ambiguity and conflicts, what counts as a violation, what termination means, how the document changes over time.
 
+Section 4.7 also permits explicitly user-granted standing permission for narrowly specified actions, subject to its scope checks and revocation rules. This satisfies 4.7's permission requirement without overriding other hard rules.
+
 The document is written personal-first (governing agents working for `<Your Name>`) but is structured to be forked for team or organizational use. See section 8.5 of the canonical document for fork guidance.
 
 ## Files
